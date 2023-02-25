@@ -8,6 +8,6 @@ require (
 	github.com/jessevdk/go-flags v1.4.1-0.20200711081900-c17162fe8fd7
 	github.com/knadh/koanf v0.12.0
 	github.com/sirupsen/logrus v1.6.0
-	golang.org/x/net v0.0.0-20200822124328-c89045814202 // indirect
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 )
